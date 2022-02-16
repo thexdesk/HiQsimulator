@@ -1,2 +1,4 @@
 mpi4py
 projectq>=0.4.0
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
